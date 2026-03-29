@@ -13,5 +13,8 @@ Open the .mlx file in MATLAB (R2025+) and run.
 
 This control scheme is a bit confusing at first, but essentailly, the direction you hold is the direction you will go. 
 
+## Gameplay
+having a thruster active will push the lander by applying an acceleration. If the lander collides with the ground too fast, it will turn red and prevent any further input. If the lander touches the ground with a small enough speed, it will turn green. The win/loss counter will be updated when the game detects a sucessful landing or crash respectively.
+
 ## License
 This project is licensed under the MIT License — see the LICENSE file for details.
