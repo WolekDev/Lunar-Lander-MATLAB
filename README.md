@@ -17,4 +17,4 @@ This control scheme is a bit confusing at first, but essentailly, the direction 
 Having a thruster active will push the lander by applying an acceleration. If the lander collides with the ground too fast, it will turn red and prevent any further input. If the lander touches the ground with a small enough speed, it will turn green. The win/loss counter will be updated when the game detects a sucessful landing or crash respectively.
 
 ## License
-This project is licensed under the MIT License — see the LICENSE file for details.
+This project is licensed under the GPL 3.0 License — see the LICENSE file for details.
